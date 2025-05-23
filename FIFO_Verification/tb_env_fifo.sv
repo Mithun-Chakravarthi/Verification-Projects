@@ -1,3 +1,4 @@
+// AUTHOR : BUNGATAVALA MITHUN CHAKRAVARTHI //
 class transaction;
   
   rand bit oper;          // Randomized bit for operation control (1 or 0)
