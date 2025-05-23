@@ -1,3 +1,5 @@
+// AUTHOR : BUNGATAVALA MITHUN CHAKRAVARTHI //
+
 class transaction;
   rand bit din;    // Define a random input bit "din"
   bit dout;        // Define an output bit "dout"
